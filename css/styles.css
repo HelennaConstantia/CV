@@ -1,0 +1,40 @@
+
+body {
+  margin: 0;
+  font-family: Verdana,Geneva,sans-serif;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 48px;
+}
+.top-container {
+  background-color: #DFE8CC;
+  text-align: center;
+  position: relative;
+  padding: 100px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.middle-container {
+  text-align: center;
+  background-color: #DAE2B6;
+}
+.pp {
+  width: 300px;
+}
+.web-design {
+  width: 300px
+}
+.analysis {
+  width: 300px;
+}
+.bottom-container {
+  background-color: #CCD6A6;
+  padding: 30px;
+}
